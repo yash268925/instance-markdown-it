@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "github-markdown-css": "^5.1.0",
+    "markdown-it": "^13.0.1",
+    "vite": "^3.1.3"
+  },
+  "devDependencies": {
+    "@types/markdown-it": "^12.2.3"
+  }
+}
